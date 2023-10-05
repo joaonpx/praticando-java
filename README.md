@@ -6,7 +6,7 @@
 
 Projetos desenvolvidos com as seguintes tecnologias:
 
-- ![Java](https://www.java.com/pt-BR/)
+- Java
 
 ## 💻 Projeto
 
