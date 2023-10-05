@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Npx
+ *
+ */
+module Bank {
+}
